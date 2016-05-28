@@ -98,7 +98,7 @@
           <p><a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a></p>
       </div>
 
-      END
+      END WORD
   </div>
   </body>
 </html>
